@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "dream orphans.ttf";
+	src: url('../police/dream orphans.ttf') format('truetype');	
+}
+
+body{
+    background-image: URL("../img/bg_code.jpg");
+}
+
+.policeFont
+{
+    font-family: "dream orphans";
+    font-size: 450%;
+    color: #11042e;
+    text-align: center;
+
+}
