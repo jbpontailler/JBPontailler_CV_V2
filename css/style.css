@@ -1,5 +1,5 @@
 @font-face {
-	font-family: "dream orphans.ttf";
+	font-family: "dream orphans";
 	src: url('../police/dream orphans.ttf') format('truetype');	
 }
 
@@ -9,9 +9,10 @@ body{
 
 .policeFont
 {
+    margin-top: 10%;
     font-family: "dream orphans";
     font-size: 450%;
-    color: #11042e;
+    color: #C0C0C0;
     text-align: center;
 
 }
